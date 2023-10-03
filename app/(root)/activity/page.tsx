@@ -31,6 +31,8 @@ async function Page() {
                     width={24}
                     className="rounded-full"
                   />
+
+                  
                   <p className="text-light-1">
                     <span className="mr-1 text-primary-500">
                       {acitivity.author.name}
